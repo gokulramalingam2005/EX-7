@@ -19,8 +19,8 @@
 
 # PROGRAM :
 ```PY
-## Developed : PABBARTHI CHETAN SATHISH KUMAR
-## Reg no : 212220230033
+## Developed : Gokul R
+## Reg no : 212222230039
 from scapy.all import*
 target = ["www.google.com"]
 result, unans = traceroute(target,maxttl=32)
